@@ -1,4 +1,4 @@
-# Baos cáo thực hành Postman
+# Báo cáo thực hành Postman
 
 
 # 1. Giới thiệu về Postman
